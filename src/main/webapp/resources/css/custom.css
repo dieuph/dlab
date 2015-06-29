@@ -1,0 +1,53 @@
+/* COMMON CSS */
+.alert-top {
+  margin-top: 10px;
+}
+
+div.form-error {
+    color: red;
+    margin: 5px 0px 0px 0px;
+}
+
+.btn-position {
+	margin: 10px 0px 0px 0px;
+}
+
+div.box-scroll {
+	height: 350px;
+	overflow: scroll;
+}
+
+/* HOME PAGE */
+.dlab-brand {
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+}
+
+.home-content {
+	margin-top: -20px;
+}
+
+h4.intro {
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+p.para-info {
+	font-size: 18px;
+	text-align: justify;
+	text-indent: 50px;
+}
+ul.para-info {
+	font-size: 18px;
+	margin-left: 60px;
+	font-style: italic;
+}
+/* LIST LAB */
+td.manager-lab-function-group form {
+	display: inline-block;
+}
+
+form.footer-form-inline {
+	display: inline-block
+}

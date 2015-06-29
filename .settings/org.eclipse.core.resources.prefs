@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/student_user_panel.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/common/teacher_user_panel.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/student/list_lab.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/student/register_lab.jsp=UTF-8
