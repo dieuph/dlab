@@ -189,14 +189,10 @@
                         </div>
                         
                         <strong class="pull-left col-lg-12 bold">
-<!--                                 <span>Trường Đại học Cần Thơ (Can Tho University)</span><br /> -->
-<!--                                 <span>Khu II, đường 3/2, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ.</span><br /> -->
-<!--                                 <span>Điện thoại: (84-0710) 3832663; Fax: (84-0710) 3838474; Email: dhct@ctu.edu.vn.</span><br /> -->
-<!--                                 Copyright © dlab | <a href="">Privacy Policy</a> | <a href="">Terms of Use</a> -->
-                            <span>Xây dựng phòng thí nghiệm viễn thông trực tuyến</span><br />
-                            <span>GVHD: Lương Vinh Quốc Danh</span><br />
-                            <span>SVTH: Nguyễn Thuận Thành</span><br />
-                            <span>DLab Version 1.0 - 2015</span><br />
+                            <span>Trường Đại học Cần Thơ (Can Tho University)</span><br />
+                            <span>Khu II, đường 3/2, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ.</span><br />
+                            <span>Điện thoại: (84-0710) 3832663; Fax: (84-0710) 3838474; Email: dhct@ctu.edu.vn.</span><br />
+                            Copyright © dlab | <a href="">Privacy Policy</a> | <a href="">Terms of Use</a>
                         </strong>
                 </div>
             </div>
